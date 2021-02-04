@@ -40,20 +40,23 @@
 .img1{
   height: 150px;
   background-image: url(img/flow01.png);
-  background-size: 280px 150px ;
+  background-size: cover ;
   background-repeat: no-repeat;
+  background-position: bottom center;
 }
 .img2{
   height: 150px;
   background-image: url(img/flow02.png);
-  background-size: 280px 150px ;
+  background-size: cover ;
   background-repeat: no-repeat;
+  background-position: bottom center;
 }
 .img3{
   height: 150px;
   background-image: url(img/flow03.png);
-  background-size: 280px 150px ;
+  background-size: cover ;
   background-repeat: no-repeat;
+  background-position: bottom center;
 }
 
 .footer{
